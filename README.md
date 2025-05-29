@@ -14,15 +14,6 @@ A simple Flappy Bird clone created using Python and the Pygame library. Fly the 
 *   Basic bird rotation animation.
 *   Asset loading with fallback to colored rectangles if images are missing.
 *   Automatic resizing of provided image assets to fit game dimensions.
-
-## Screenshots
-
-*(Consider adding a screenshot or GIF of your game here. You can create one and upload it to your repository, then link it like this:)*
-<!-- ![Gameplay Screenshot](link_to_your_screenshot.png) -->
-Example:
-![Gameplay Screenshot](./gameplay_example.png) <!-- Assuming you add an image named gameplay_example.png to your repo -->
-
-
 ## Requirements
 
 *   Python 3.x
